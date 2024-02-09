@@ -1,0 +1,46 @@
+<--------------------------------------------+
+|                                            |
+|             GAME INTRODUCTIONS             |
+|                                            |
+| <----------------------------------------> |
+|                                            |
+|  INTRO 1: The Codemaker select the Code.   |
+|           With the available colors        |
+|                                            | 
+|  INTRO 2: The Codebreaker makes his        |
+|           first guess.                     |
+|                                            |
+|  INTRO 3: Codebreaker asks the Codemaker   |
+|           for feedback.                    |
+|           The Codemaker gives his feedback |
+|           with white and grey points.      |
+|                                            |
+|  INTRO 4: For more Information click on    |
+|           this site:                       |
+|   https://www.wikihow.com/Play-Mastermind  |  
+|                                            |
+|                                            |
+| <----------------------------------------> |
+|             AVAILABLE COULOURS             |
+|                                            |
+|   All letters are written in lower case!   |
+|                                            |
+|  - red                                     |
+|  - blue                                    |
+|  - yellow                                  |
+|  - green                                   |
+|  - violet                                  |
+|  - orange                                  |
+|                                            |
+|   The colors for the colors are:           |
+|                                            |
+|  - grey                                    |
+|  - white                                   |
+|                                            |
+|                                            |
++-------------------------------------------->
+
+
+
+
+
